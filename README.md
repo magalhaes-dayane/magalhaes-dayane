@@ -7,7 +7,7 @@
 </div> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://img1.gratispng.com/20180422/beq/kisspng-web-development-javascript-html-css3-programming-l-5adca02c871e05.8350482015244083645535.jpg">
+  <img align="center" alt="Js" height="30" width="40" src="[https://img1.gratispng.com/20180422/beq/kisspng-web-development-javascript-html-css3-programming-l-5adca02c871e05.8350482015244083645535.jpg](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png)">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
