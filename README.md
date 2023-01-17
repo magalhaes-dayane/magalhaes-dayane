@@ -7,7 +7,7 @@
 </div> 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
